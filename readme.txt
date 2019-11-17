@@ -1,0 +1,1 @@
+simple variation of tic-tac-toe game on TKinter default graphic library
